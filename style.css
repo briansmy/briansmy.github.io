@@ -1,0 +1,36 @@
+p {
+    font-family: Chiller,fantasy;
+    font-size: 26px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline;
+    padding: 8px;
+    background-color: darkgreen;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: darkslateblue;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+
+a:active {
+    color: red;
+}
